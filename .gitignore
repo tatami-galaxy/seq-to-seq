@@ -1,2 +1,5 @@
-/processed_data/*
-/raw_data/*
+/processed_data
+/raw_data
+/revtok
+/text
+/.vector_cache
