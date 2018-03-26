@@ -3,3 +3,5 @@
 /revtok
 /text
 /.vector_cache
+textmodule.c
+seq_to_seq.ipynb
